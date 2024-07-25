@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.909a6412.css",
+    "main.js": "./static/js/main.f8374724.js",
+    "static/media/home-1.png": "./static/media/home-1.9fb9ae77a9b2a0410d7c.png",
+    "static/media/ntu-logo.svg": "./static/media/ntu-logo.0db93e1d8575b346e6e6f27ab661bce6.svg",
+    "static/media/logo.svg": "./static/media/logo.e558cfced2a9d2e80131dc3dc46bcc0b.svg",
+    "static/media/avatar.png": "./static/media/avatar.e71f8720bb62fd0be0e6.png",
+    "index.html": "./index.html",
+    "static/media/bottom-arrow.svg": "./static/media/bottom-arrow.2b1fe2917e0e3dad3dcd6ce2bb33b261.svg",
+    "main.909a6412.css.map": "./static/css/main.909a6412.css.map",
+    "main.f8374724.js.map": "./static/js/main.f8374724.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.909a6412.css",
+    "static/js/main.f8374724.js"
+  ]
+}
